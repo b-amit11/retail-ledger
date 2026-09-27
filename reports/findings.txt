@@ -1,0 +1,5 @@
+Recorded gross sales GBP 10,642,110.80 less cancellation value GBP 893,979.73 equals net transaction value GBP 9,748,131.07.
+Cancellation value is 8.40% of gross sales. It is not an item-return rate: cancellations are not matched to original purchases.
+The UK accounts for 84.0% of net transaction value. Review international markets separately so the UK does not hide differences.
+December 2011 stops on the 9th and is excluded from trend and cohort comparisons.
+Cohorts begin at first observed purchase, not proven first-ever purchase. Customers without IDs are excluded from retention, but remain in transaction totals.
