@@ -16,7 +16,7 @@ assert ((df.unit_price*1000-(df.unit_price*1000).round()).abs()<1e-5).all()
 with sqlite3.connect(ROOT/'data/retail.sqlite') as db:
  df.to_sql('raw_transactions',db,index=False,if_exists='replace')
  db.executescript((ROOT/'sql/01_model.sql').read_text())
- exports={'monthly':'SELECT * FROM monthly ORDER BY month','countries':'SELECT * FROM country_summary ORDER BY net_gbp DESC','cohorts':'SELECT * FROM cohorts ORDER BY cohort,month_index','audit':"SELECT record_class,COUNT(*) AS rows,SUM(value_mills)/1000.0 AS signed_gbp FROM classified GROUP BY record_class ORDER BY record_class"}
+ exports={'country_month':"SELECT month,CAST(REPLACE(month,'-','') AS INTEGER) AS month_key,country,SUM(CASE WHEN record_class='sale' THEN value_mills ELSE 0 END)/1000.0 AS gross_gbp,-SUM(CASE WHEN record_class='cancellation' THEN value_mills ELSE 0 END)/1000.0 AS cancellations_gbp,SUM(value_mills)/1000.0 AS net_gbp,COUNT(DISTINCT CASE WHEN record_class='sale' THEN invoice END) AS sales_invoices FROM classified WHERE record_class IN ('sale','cancellation') GROUP BY month,country ORDER BY month,country",'monthly':'SELECT * FROM monthly ORDER BY month','countries':'SELECT * FROM country_summary ORDER BY net_gbp DESC','cohorts':'SELECT * FROM cohorts ORDER BY cohort,month_index','audit':"SELECT record_class,COUNT(*) AS rows,SUM(value_mills)/1000.0 AS signed_gbp FROM classified GROUP BY record_class ORDER BY record_class"}
  results={}
  for name,sql in exports.items():
   data=pd.read_sql_query(sql,db);data.to_csv(ROOT/f'exports/{name}.csv',index=False);results[name]=json.loads(data.to_json(orient='records'))

@@ -24,10 +24,12 @@ Recommended investigation: validate duplicate records against the source system,
 
 ## Deliverables
 
-- `Retail_Ledger.xlsx`: formula-driven monthly results and native chart, sortable market table, formula-based retention heatmap with source counts, and source reconciliation. Formulas recalculate when workbook inputs change; it is not connected to a live database.
+- `Retail_Ledger.xlsx`: interactive country/date analysis using XLOOKUP, SUMIFS, COUNTIFS and validated selections; a native country PivotTable; formula-driven monthly results and native chart, sortable market table, formula-based retention heatmap with source counts, and source reconciliation. Formulas recalculate when workbook inputs change; it is not connected to a live database.
 - `reports/dashboard.html`: standalone R-generated dashboard with tabs, inline charts, findings and methodology. Open it in a browser; no R installation or internet is required for viewing.
 - `sql/01_model.sql`: classification, window-function duplicate handling, monthly/country views, and customer cohort CTEs.
 - `sql/02_monthly_change.sql`: LAG-based month-to-month comparisons excluding the incomplete month.
+- `sql/03_country_month.sql`: country-month aggregates powering the Excel selector.
+- `excel/`: analysis guide and optional Power Query M staging script (not an installed connection).
 - `R/dashboard.R`: R calculations, assertions, SVG charts, and HTML generation using base R.
 - `exports/`: tidy SQL extracts and R monthly calculations; suitable for optional import into other BI tools. No Power BI file was created.
 - `reports/analysis.json`: source checksum, quality counts and reconciliation checks.
@@ -71,7 +73,7 @@ December 2011 ends on December 9. Full-period transaction totals include it; com
 
 Seven source-data reconciliation checks passed, including an independent Pandas comparison of SQL net transaction value. Six SQL fixture tests cover duplicates, cancellations, missing customer IDs, retention, partial-month exclusion, and other negative adjustments.
 
-The Excel workbook was recalculated and scanned for formula errors using its authoring engine. A source-input change correctly propagated to the net total and was restored; all four sheets were visually inspected. Native Microsoft Excel was not available for application-level testing. R asserts that monthly gross minus cancellations equals net.
+The Excel workbook was recalculated and scanned for formula errors using its authoring engine. A source-input change correctly propagated to the net total and was restored; the original four sheets were visually inspected. Four country/date scenarios matched source aggregates, reversed dates were rejected, and original cell values/formulas and the chart were preserved. The native PivotTable cache contains 314 records and three measures and was independently parsed; Microsoft Excel refresh remains untested. See `excel/README.md` for usage and refresh limitations. Native Microsoft Excel was not available for application-level testing. R asserts that monthly gross minus cancellations equals net.
 
 ## Source and license
 

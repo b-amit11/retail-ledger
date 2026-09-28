@@ -1068,5 +1068,2833 @@
       "Cohort rates between 0 and 1",
       "Month-zero cohort counts reconcile"
     ]
-  }
+  },
+  "country_month": [
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Australia",
+      "gross_gbp": 965.35,
+      "cancellations_gbp": 27.75,
+      "net_gbp": 937.6,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Austria",
+      "gross_gbp": 277.2,
+      "cancellations_gbp": 20.16,
+      "net_gbp": 257.04,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Bahrain",
+      "gross_gbp": 205.74,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 205.74,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Belgium",
+      "gross_gbp": 1809.91,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1809.91,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Channel Islands",
+      "gross_gbp": 363.53,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 363.53,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Cyprus",
+      "gross_gbp": 1587.07,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1587.07,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Denmark",
+      "gross_gbp": 1281.5,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1281.5,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "EIRE",
+      "gross_gbp": 10033.26,
+      "cancellations_gbp": 1003.31,
+      "net_gbp": 9029.95,
+      "sales_invoices": 17
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Finland",
+      "gross_gbp": 892.8,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 892.8,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "France",
+      "gross_gbp": 9616.31,
+      "cancellations_gbp": 40.95,
+      "net_gbp": 9575.36,
+      "sales_invoices": 21
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Germany",
+      "gross_gbp": 15205.74,
+      "cancellations_gbp": 678.3,
+      "net_gbp": 14527.44,
+      "sales_invoices": 30
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Iceland",
+      "gross_gbp": 711.79,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 711.79,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Israel",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 227.44,
+      "net_gbp": -227.44,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Italy",
+      "gross_gbp": 811.5,
+      "cancellations_gbp": 17.0,
+      "net_gbp": 794.5,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Japan",
+      "gross_gbp": 7705.07,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 7705.07,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Lithuania",
+      "gross_gbp": 1661.06,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1661.06,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Netherlands",
+      "gross_gbp": 8784.48,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 8784.48,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Norway",
+      "gross_gbp": 3787.12,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3787.12,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Poland",
+      "gross_gbp": 248.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 248.16,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Portugal",
+      "gross_gbp": 2439.97,
+      "cancellations_gbp": 59.85,
+      "net_gbp": 2380.12,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Spain",
+      "gross_gbp": 1843.73,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1843.73,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Sweden",
+      "gross_gbp": 3834.3,
+      "cancellations_gbp": 1188.0,
+      "net_gbp": 2646.3,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "Switzerland",
+      "gross_gbp": 1304.92,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1304.92,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2010-12",
+      "month_key": 201012,
+      "country": "United Kingdom",
+      "gross_gbp": 746082.22,
+      "cancellations_gbp": 71466.36,
+      "net_gbp": 674615.86,
+      "sales_invoices": 1447
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Australia",
+      "gross_gbp": 9017.71,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 9017.71,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Bahrain",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 205.74,
+      "net_gbp": -205.74,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Belgium",
+      "gross_gbp": 1200.2,
+      "cancellations_gbp": 46.15,
+      "net_gbp": 1154.05,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Channel Islands",
+      "gross_gbp": 675.58,
+      "cancellations_gbp": 30.5,
+      "net_gbp": 645.08,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Cyprus",
+      "gross_gbp": 547.5,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 547.5,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "EIRE",
+      "gross_gbp": 21904.19,
+      "cancellations_gbp": 247.67,
+      "net_gbp": 21656.52,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Finland",
+      "gross_gbp": 889.02,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 889.02,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "France",
+      "gross_gbp": 17740.12,
+      "cancellations_gbp": 237.05,
+      "net_gbp": 17503.07,
+      "sales_invoices": 29
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Germany",
+      "gross_gbp": 16880.84,
+      "cancellations_gbp": 459.41,
+      "net_gbp": 16421.43,
+      "sales_invoices": 31
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Greece",
+      "gross_gbp": 2661.24,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2661.24,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Hong Kong",
+      "gross_gbp": 2230.96,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2230.96,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Iceland",
+      "gross_gbp": 475.39,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 475.39,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Israel",
+      "gross_gbp": 379.84,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 379.84,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Italy",
+      "gross_gbp": 2402.51,
+      "cancellations_gbp": 41.15,
+      "net_gbp": 2361.36,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Japan",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 109.8,
+      "net_gbp": -109.8,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Lebanon",
+      "gross_gbp": 1693.88,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1693.88,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Netherlands",
+      "gross_gbp": 26611.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 26611.16,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Poland",
+      "gross_gbp": 613.22,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 613.22,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Portugal",
+      "gross_gbp": 4055.71,
+      "cancellations_gbp": 57.6,
+      "net_gbp": 3998.11,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Singapore",
+      "gross_gbp": 2053.07,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2053.07,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Spain",
+      "gross_gbp": 10086.09,
+      "cancellations_gbp": 2907.55,
+      "net_gbp": 7178.54,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Sweden",
+      "gross_gbp": 3486.32,
+      "cancellations_gbp": 40.0,
+      "net_gbp": 3446.32,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "Switzerland",
+      "gross_gbp": 4231.23,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 4231.23,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-01",
+      "month_key": 201101,
+      "country": "United Kingdom",
+      "gross_gbp": 559975.83,
+      "cancellations_gbp": 126980.43,
+      "net_gbp": 432995.4,
+      "sales_invoices": 971
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Australia",
+      "gross_gbp": 14695.42,
+      "cancellations_gbp": 67.95,
+      "net_gbp": 14627.47,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Austria",
+      "gross_gbp": 518.36,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 518.36,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Belgium",
+      "gross_gbp": 2181.07,
+      "cancellations_gbp": 19.75,
+      "net_gbp": 2161.32,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Channel Islands",
+      "gross_gbp": 1784.71,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1784.71,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Cyprus",
+      "gross_gbp": 4334.24,
+      "cancellations_gbp": 320.69,
+      "net_gbp": 4013.55,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Czech Republic",
+      "gross_gbp": 549.26,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 549.26,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Denmark",
+      "gross_gbp": 399.22,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 399.22,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "EIRE",
+      "gross_gbp": 12203.74,
+      "cancellations_gbp": 2574.6,
+      "net_gbp": 9629.14,
+      "sales_invoices": 13
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Finland",
+      "gross_gbp": 205.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 205.16,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "France",
+      "gross_gbp": 8515.96,
+      "cancellations_gbp": 77.05,
+      "net_gbp": 8438.91,
+      "sales_invoices": 21
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Germany",
+      "gross_gbp": 9581.05,
+      "cancellations_gbp": 611.81,
+      "net_gbp": 8969.24,
+      "sales_invoices": 19
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Israel",
+      "gross_gbp": 779.1,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 779.1,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Italy",
+      "gross_gbp": 256.0,
+      "cancellations_gbp": 4.5,
+      "net_gbp": 251.5,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Japan",
+      "gross_gbp": 5780.81,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 5780.81,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Netherlands",
+      "gross_gbp": 23011.91,
+      "cancellations_gbp": 79.8,
+      "net_gbp": 22932.11,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Norway",
+      "gross_gbp": 630.9,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 630.9,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Poland",
+      "gross_gbp": 604.05,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 604.05,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Portugal",
+      "gross_gbp": 1213.9,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1213.9,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Saudi Arabia",
+      "gross_gbp": 145.92,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 145.92,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Spain",
+      "gross_gbp": 2114.5,
+      "cancellations_gbp": 20.8,
+      "net_gbp": 2093.7,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Sweden",
+      "gross_gbp": 509.5,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 509.5,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "Switzerland",
+      "gross_gbp": 2654.92,
+      "cancellations_gbp": 12.25,
+      "net_gbp": 2642.67,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "United Arab Emirates",
+      "gross_gbp": 889.24,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 889.24,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-02",
+      "month_key": 201102,
+      "country": "United Kingdom",
+      "gross_gbp": 428986.62,
+      "cancellations_gbp": 21729.95,
+      "net_gbp": 407256.67,
+      "sales_invoices": 995
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Australia",
+      "gross_gbp": 17223.99,
+      "cancellations_gbp": 168.7,
+      "net_gbp": 17055.29,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Austria",
+      "gross_gbp": 1708.12,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1708.12,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Belgium",
+      "gross_gbp": 3351.98,
+      "cancellations_gbp": 18.4,
+      "net_gbp": 3333.58,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Canada",
+      "gross_gbp": 140.54,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 140.54,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Channel Islands",
+      "gross_gbp": 3509.33,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3509.33,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Cyprus",
+      "gross_gbp": 938.39,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 938.39,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Denmark",
+      "gross_gbp": 3978.99,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3978.99,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "EIRE",
+      "gross_gbp": 22197.51,
+      "cancellations_gbp": 3414.28,
+      "net_gbp": 18783.23,
+      "sales_invoices": 23
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Finland",
+      "gross_gbp": 5936.82,
+      "cancellations_gbp": 12.2,
+      "net_gbp": 5924.62,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "France",
+      "gross_gbp": 14584.95,
+      "cancellations_gbp": 72.65,
+      "net_gbp": 14512.3,
+      "sales_invoices": 25
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Germany",
+      "gross_gbp": 14392.69,
+      "cancellations_gbp": 222.67,
+      "net_gbp": 14170.02,
+      "sales_invoices": 32
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Greece",
+      "gross_gbp": 387.31,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 387.31,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Hong Kong",
+      "gross_gbp": 2583.76,
+      "cancellations_gbp": 2583.76,
+      "net_gbp": 0.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Italy",
+      "gross_gbp": 1806.81,
+      "cancellations_gbp": 27.9,
+      "net_gbp": 1778.91,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Japan",
+      "gross_gbp": 48.9,
+      "cancellations_gbp": 122.56,
+      "net_gbp": -73.66,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Netherlands",
+      "gross_gbp": 22416.49,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 22416.49,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Norway",
+      "gross_gbp": 1265.31,
+      "cancellations_gbp": 960.63,
+      "net_gbp": 304.68,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Poland",
+      "gross_gbp": 317.78,
+      "cancellations_gbp": 14.39,
+      "net_gbp": 303.39,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Portugal",
+      "gross_gbp": 2660.85,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2660.85,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Saudi Arabia",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 14.75,
+      "net_gbp": -14.75,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Spain",
+      "gross_gbp": 5363.15,
+      "cancellations_gbp": 36.5,
+      "net_gbp": 5326.65,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Sweden",
+      "gross_gbp": 4720.58,
+      "cancellations_gbp": 180.0,
+      "net_gbp": 4540.58,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "Switzerland",
+      "gross_gbp": 1870.23,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1870.23,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-03",
+      "month_key": 201103,
+      "country": "United Kingdom",
+      "gross_gbp": 584810.78,
+      "cancellations_gbp": 26351.89,
+      "net_gbp": 558458.89,
+      "sales_invoices": 1308
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Australia",
+      "gross_gbp": 771.6,
+      "cancellations_gbp": 438.2,
+      "net_gbp": 333.4,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Austria",
+      "gross_gbp": 680.78,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 680.78,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Belgium",
+      "gross_gbp": 1989.48,
+      "cancellations_gbp": 35.33,
+      "net_gbp": 1954.15,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Brazil",
+      "gross_gbp": 1143.6,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1143.6,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Channel Islands",
+      "gross_gbp": 293.0,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 293.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Cyprus",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 35.8,
+      "net_gbp": -35.8,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Czech Republic",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 57.51,
+      "net_gbp": -57.51,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "EIRE",
+      "gross_gbp": 7570.5,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 7570.5,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "European Community",
+      "gross_gbp": 191.4,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 191.4,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Finland",
+      "gross_gbp": 1688.92,
+      "cancellations_gbp": 62.11,
+      "net_gbp": 1626.81,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "France",
+      "gross_gbp": 5529.61,
+      "cancellations_gbp": 1334.4,
+      "net_gbp": 4195.21,
+      "sales_invoices": 14
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Germany",
+      "gross_gbp": 12315.54,
+      "cancellations_gbp": 352.17,
+      "net_gbp": 11963.37,
+      "sales_invoices": 23
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Greece",
+      "gross_gbp": 609.74,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 609.74,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Hong Kong",
+      "gross_gbp": 1539.64,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1539.64,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Iceland",
+      "gross_gbp": 636.25,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 636.25,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Israel",
+      "gross_gbp": 110.0,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 110.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Italy",
+      "gross_gbp": 737.83,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 737.83,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Japan",
+      "gross_gbp": 6548.5,
+      "cancellations_gbp": 1676.67,
+      "net_gbp": 4871.83,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Netherlands",
+      "gross_gbp": 2976.56,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2976.56,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Poland",
+      "gross_gbp": 705.84,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 705.84,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Portugal",
+      "gross_gbp": 1687.75,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1687.75,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Singapore",
+      "gross_gbp": 8209.58,
+      "cancellations_gbp": 6090.84,
+      "net_gbp": 2118.74,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Spain",
+      "gross_gbp": 1785.65,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1785.65,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Sweden",
+      "gross_gbp": 809.1,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 809.1,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Switzerland",
+      "gross_gbp": 2076.94,
+      "cancellations_gbp": 254.75,
+      "net_gbp": 1822.19,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "USA",
+      "gross_gbp": 383.95,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 383.95,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "United Kingdom",
+      "gross_gbp": 475677.631,
+      "cancellations_gbp": 34262.87,
+      "net_gbp": 441414.761,
+      "sales_invoices": 1153
+    },
+    {
+      "month": "2011-04",
+      "month_key": 201104,
+      "country": "Unspecified",
+      "gross_gbp": 299.1,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 299.1,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Australia",
+      "gross_gbp": 13638.41,
+      "cancellations_gbp": 9.9,
+      "net_gbp": 13628.51,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Austria",
+      "gross_gbp": 1249.43,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1249.43,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Bahrain",
+      "gross_gbp": 548.4,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 548.4,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Belgium",
+      "gross_gbp": 2732.4,
+      "cancellations_gbp": 5.4,
+      "net_gbp": 2727.0,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Canada",
+      "gross_gbp": 534.24,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 534.24,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Channel Islands",
+      "gross_gbp": 1207.24,
+      "cancellations_gbp": 303.45,
+      "net_gbp": 903.79,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Denmark",
+      "gross_gbp": 515.7,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 515.7,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "EIRE",
+      "gross_gbp": 18003.72,
+      "cancellations_gbp": 87.41,
+      "net_gbp": 17916.31,
+      "sales_invoices": 22
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "France",
+      "gross_gbp": 17606.48,
+      "cancellations_gbp": 87.8,
+      "net_gbp": 17518.68,
+      "sales_invoices": 39
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Germany",
+      "gross_gbp": 25734.7,
+      "cancellations_gbp": 179.85,
+      "net_gbp": 25554.85,
+      "sales_invoices": 42
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Hong Kong",
+      "gross_gbp": 1966.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1966.16,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Italy",
+      "gross_gbp": 587.45,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 587.45,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Japan",
+      "gross_gbp": 1351.45,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1351.45,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Netherlands",
+      "gross_gbp": 29185.88,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 29185.88,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Poland",
+      "gross_gbp": 1522.37,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1522.37,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Portugal",
+      "gross_gbp": 4202.23,
+      "cancellations_gbp": 3614.4,
+      "net_gbp": 587.83,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Spain",
+      "gross_gbp": 3257.6,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3257.6,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Sweden",
+      "gross_gbp": 2681.98,
+      "cancellations_gbp": 17.0,
+      "net_gbp": 2664.98,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Switzerland",
+      "gross_gbp": 3610.01,
+      "cancellations_gbp": 42.8,
+      "net_gbp": 3567.21,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "United Kingdom",
+      "gross_gbp": 638104.89,
+      "cancellations_gbp": 42854.5,
+      "net_gbp": 595250.39,
+      "sales_invoices": 1523
+    },
+    {
+      "month": "2011-05",
+      "month_key": 201105,
+      "country": "Unspecified",
+      "gross_gbp": 1055.87,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1055.87,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Australia",
+      "gross_gbp": 25187.77,
+      "cancellations_gbp": 23.0,
+      "net_gbp": 25164.77,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Austria",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 24.2,
+      "net_gbp": -24.2,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Belgium",
+      "gross_gbp": 4274.82,
+      "cancellations_gbp": 1.65,
+      "net_gbp": 4273.17,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Canada",
+      "gross_gbp": 1171.46,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1171.46,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Channel Islands",
+      "gross_gbp": 2060.03,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2060.03,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Cyprus",
+      "gross_gbp": 1109.32,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1109.32,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Denmark",
+      "gross_gbp": 3261.15,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3261.15,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "EIRE",
+      "gross_gbp": 24863.61,
+      "cancellations_gbp": 4773.36,
+      "net_gbp": 20090.25,
+      "sales_invoices": 28
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "European Community",
+      "gross_gbp": 432.05,
+      "cancellations_gbp": 8.5,
+      "net_gbp": 423.55,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Finland",
+      "gross_gbp": 329.56,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 329.56,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "France",
+      "gross_gbp": 16348.41,
+      "cancellations_gbp": 356.54,
+      "net_gbp": 15991.87,
+      "sales_invoices": 31
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Germany",
+      "gross_gbp": 13246.35,
+      "cancellations_gbp": 193.08,
+      "net_gbp": 13053.27,
+      "sales_invoices": 24
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Hong Kong",
+      "gross_gbp": 633.96,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 633.96,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Iceland",
+      "gross_gbp": 382.52,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 382.52,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Italy",
+      "gross_gbp": 202.07,
+      "cancellations_gbp": 39.8,
+      "net_gbp": 162.27,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Japan",
+      "gross_gbp": 1607.04,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1607.04,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Malta",
+      "gross_gbp": 863.16,
+      "cancellations_gbp": 12.75,
+      "net_gbp": 850.41,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Netherlands",
+      "gross_gbp": 26858.09,
+      "cancellations_gbp": 15.0,
+      "net_gbp": 26843.09,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Norway",
+      "gross_gbp": 5886.86,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 5886.86,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Poland",
+      "gross_gbp": 343.65,
+      "cancellations_gbp": 78.91,
+      "net_gbp": 264.74,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Portugal",
+      "gross_gbp": 884.46,
+      "cancellations_gbp": 4.95,
+      "net_gbp": 879.51,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Spain",
+      "gross_gbp": 3333.21,
+      "cancellations_gbp": 0.77,
+      "net_gbp": 3332.44,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Sweden",
+      "gross_gbp": 832.0,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 832.0,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Switzerland",
+      "gross_gbp": 7904.15,
+      "cancellations_gbp": 21.95,
+      "net_gbp": 7882.2,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "United Kingdom",
+      "gross_gbp": 618345.53,
+      "cancellations_gbp": 65015.32,
+      "net_gbp": 553330.21,
+      "sales_invoices": 1383
+    },
+    {
+      "month": "2011-06",
+      "month_key": 201106,
+      "country": "Unspecified",
+      "gross_gbp": 185.78,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 185.78,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Australia",
+      "gross_gbp": 4964.38,
+      "cancellations_gbp": 196.81,
+      "net_gbp": 4767.57,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Austria",
+      "gross_gbp": 1191.95,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1191.95,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Belgium",
+      "gross_gbp": 2475.57,
+      "cancellations_gbp": 1.95,
+      "net_gbp": 2473.62,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Canada",
+      "gross_gbp": 1768.58,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1768.58,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Denmark",
+      "gross_gbp": 376.24,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 376.24,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "EIRE",
+      "gross_gbp": 42738.85,
+      "cancellations_gbp": 49.2,
+      "net_gbp": 42689.65,
+      "sales_invoices": 27
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "European Community",
+      "gross_gbp": 676.8,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 676.8,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Finland",
+      "gross_gbp": 2996.73,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2996.73,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "France",
+      "gross_gbp": 10000.19,
+      "cancellations_gbp": 111.2,
+      "net_gbp": 9888.99,
+      "sales_invoices": 22
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Germany",
+      "gross_gbp": 16440.98,
+      "cancellations_gbp": 719.32,
+      "net_gbp": 15721.66,
+      "sales_invoices": 33
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Greece",
+      "gross_gbp": 421.24,
+      "cancellations_gbp": 50.0,
+      "net_gbp": 371.24,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Israel",
+      "gross_gbp": 1430.75,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1430.75,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Italy",
+      "gross_gbp": 147.1,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 147.1,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Japan",
+      "gross_gbp": 3854.4,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3854.4,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Netherlands",
+      "gross_gbp": 26.02,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 26.02,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Norway",
+      "gross_gbp": 890.07,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 890.07,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Poland",
+      "gross_gbp": 687.3,
+      "cancellations_gbp": 8.85,
+      "net_gbp": 678.45,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Portugal",
+      "gross_gbp": 2287.85,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2287.85,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Singapore",
+      "gross_gbp": 3949.32,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3949.32,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Spain",
+      "gross_gbp": 7620.77,
+      "cancellations_gbp": 46.75,
+      "net_gbp": 7574.02,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Sweden",
+      "gross_gbp": 6802.09,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 6802.09,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Switzerland",
+      "gross_gbp": 3990.76,
+      "cancellations_gbp": 222.0,
+      "net_gbp": 3768.76,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "United Kingdom",
+      "gross_gbp": 600919.071,
+      "cancellations_gbp": 36513.05,
+      "net_gbp": 564406.021,
+      "sales_invoices": 1337
+    },
+    {
+      "month": "2011-07",
+      "month_key": 201107,
+      "country": "Unspecified",
+      "gross_gbp": 1419.11,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1419.11,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Australia",
+      "gross_gbp": 22489.2,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 22489.2,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Austria",
+      "gross_gbp": 1516.08,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1516.08,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Belgium",
+      "gross_gbp": 3554.02,
+      "cancellations_gbp": 17.9,
+      "net_gbp": 3536.12,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Canada",
+      "gross_gbp": 51.56,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 51.56,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Channel Islands",
+      "gross_gbp": 4886.88,
+      "cancellations_gbp": 4.25,
+      "net_gbp": 4882.63,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Denmark",
+      "gross_gbp": 213.15,
+      "cancellations_gbp": 134.55,
+      "net_gbp": 78.6,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "EIRE",
+      "gross_gbp": 18344.2,
+      "cancellations_gbp": 6196.28,
+      "net_gbp": 12147.92,
+      "sales_invoices": 19
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Finland",
+      "gross_gbp": 1376.5,
+      "cancellations_gbp": 4.95,
+      "net_gbp": 1371.55,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "France",
+      "gross_gbp": 13810.96,
+      "cancellations_gbp": 21.7,
+      "net_gbp": 13789.26,
+      "sales_invoices": 28
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Germany",
+      "gross_gbp": 19220.77,
+      "cancellations_gbp": 197.12,
+      "net_gbp": 19023.65,
+      "sales_invoices": 39
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Hong Kong",
+      "gross_gbp": 2813.95,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2813.95,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Iceland",
+      "gross_gbp": 584.91,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 584.91,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Israel",
+      "gross_gbp": 4873.81,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 4873.81,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Italy",
+      "gross_gbp": 1990.95,
+      "cancellations_gbp": 56.15,
+      "net_gbp": 1934.8,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Japan",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 49.79,
+      "net_gbp": -49.79,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Malta",
+      "gross_gbp": 1119.0,
+      "cancellations_gbp": 15.75,
+      "net_gbp": 1103.25,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Netherlands",
+      "gross_gbp": 40327.81,
+      "cancellations_gbp": 672.0,
+      "net_gbp": 39655.81,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Norway",
+      "gross_gbp": 2025.81,
+      "cancellations_gbp": 41.35,
+      "net_gbp": 1984.46,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Poland",
+      "gross_gbp": 401.8,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 401.8,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Portugal",
+      "gross_gbp": 1221.4,
+      "cancellations_gbp": 15.0,
+      "net_gbp": 1206.4,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Spain",
+      "gross_gbp": 3342.41,
+      "cancellations_gbp": 16.5,
+      "net_gbp": 3325.91,
+      "sales_invoices": 10
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Sweden",
+      "gross_gbp": 1390.36,
+      "cancellations_gbp": 9.9,
+      "net_gbp": 1380.46,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Switzerland",
+      "gross_gbp": 4969.89,
+      "cancellations_gbp": 87.7,
+      "net_gbp": 4882.19,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "United Kingdom",
+      "gross_gbp": 606784.93,
+      "cancellations_gbp": 46789.91,
+      "net_gbp": 559995.02,
+      "sales_invoices": 1210
+    },
+    {
+      "month": "2011-08",
+      "month_key": 201108,
+      "country": "Unspecified",
+      "gross_gbp": 531.03,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 531.03,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Australia",
+      "gross_gbp": 5106.73,
+      "cancellations_gbp": 75.0,
+      "net_gbp": 5031.73,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Belgium",
+      "gross_gbp": 4208.02,
+      "cancellations_gbp": 10.2,
+      "net_gbp": 4197.82,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Channel Islands",
+      "gross_gbp": 1323.75,
+      "cancellations_gbp": 2.1,
+      "net_gbp": 1321.65,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Cyprus",
+      "gross_gbp": 196.35,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 196.35,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Denmark",
+      "gross_gbp": 4570.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 4570.16,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "EIRE",
+      "gross_gbp": 42923.7,
+      "cancellations_gbp": 447.5,
+      "net_gbp": 42476.2,
+      "sales_invoices": 38
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Finland",
+      "gross_gbp": 1105.45,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1105.45,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "France",
+      "gross_gbp": 23428.04,
+      "cancellations_gbp": 229.17,
+      "net_gbp": 23198.87,
+      "sales_invoices": 45
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Germany",
+      "gross_gbp": 18079.47,
+      "cancellations_gbp": 370.91,
+      "net_gbp": 17708.56,
+      "sales_invoices": 41
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Hong Kong",
+      "gross_gbp": 2653.95,
+      "cancellations_gbp": 2653.95,
+      "net_gbp": 0.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Israel",
+      "gross_gbp": 423.73,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 423.73,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Italy",
+      "gross_gbp": 279.8,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 279.8,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Japan",
+      "gross_gbp": 112.08,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 112.08,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Netherlands",
+      "gross_gbp": 26937.26,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 26937.26,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Norway",
+      "gross_gbp": 8678.94,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 8678.94,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Poland",
+      "gross_gbp": 529.25,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 529.25,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Portugal",
+      "gross_gbp": 1433.22,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1433.22,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Spain",
+      "gross_gbp": 5189.24,
+      "cancellations_gbp": 25.5,
+      "net_gbp": 5163.74,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Sweden",
+      "gross_gbp": 4575.21,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 4575.21,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Switzerland",
+      "gross_gbp": 8284.86,
+      "cancellations_gbp": 29.9,
+      "net_gbp": 8254.96,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "United Arab Emirates",
+      "gross_gbp": 1013.04,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1013.04,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "United Kingdom",
+      "gross_gbp": 895098.642,
+      "cancellations_gbp": 34994.28,
+      "net_gbp": 860104.362,
+      "sales_invoices": 1645
+    },
+    {
+      "month": "2011-09",
+      "month_key": 201109,
+      "country": "Unspecified",
+      "gross_gbp": 284.3,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 284.3,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Australia",
+      "gross_gbp": 17150.53,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 17150.53,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Austria",
+      "gross_gbp": 1043.78,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1043.78,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Belgium",
+      "gross_gbp": 5685.38,
+      "cancellations_gbp": 34.0,
+      "net_gbp": 5651.38,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Channel Islands",
+      "gross_gbp": 2623.32,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2623.32,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Cyprus",
+      "gross_gbp": 4350.32,
+      "cancellations_gbp": 196.35,
+      "net_gbp": 4153.97,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Czech Republic",
+      "gross_gbp": 277.48,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 277.48,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Denmark",
+      "gross_gbp": 1490.76,
+      "cancellations_gbp": 52.65,
+      "net_gbp": 1438.11,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "EIRE",
+      "gross_gbp": 24302.92,
+      "cancellations_gbp": 1010.3,
+      "net_gbp": 23292.62,
+      "sales_invoices": 31
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Finland",
+      "gross_gbp": 2822.12,
+      "cancellations_gbp": 18.0,
+      "net_gbp": 2804.12,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "France",
+      "gross_gbp": 33471.05,
+      "cancellations_gbp": 8453.41,
+      "net_gbp": 25017.64,
+      "sales_invoices": 35
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Germany",
+      "gross_gbp": 31628.42,
+      "cancellations_gbp": 1024.15,
+      "net_gbp": 30604.27,
+      "sales_invoices": 58
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Hong Kong",
+      "gross_gbp": 734.52,
+      "cancellations_gbp": 10.95,
+      "net_gbp": 723.57,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Iceland",
+      "gross_gbp": 1294.32,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1294.32,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Israel",
+      "gross_gbp": 132.18,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 132.18,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Italy",
+      "gross_gbp": 3489.69,
+      "cancellations_gbp": 78.9,
+      "net_gbp": 3410.79,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Japan",
+      "gross_gbp": 1948.04,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1948.04,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Netherlands",
+      "gross_gbp": 40708.65,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 40708.65,
+      "sales_invoices": 15
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Norway",
+      "gross_gbp": 3687.23,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 3687.23,
+      "sales_invoices": 7
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Portugal",
+      "gross_gbp": 6184.22,
+      "cancellations_gbp": 622.04,
+      "net_gbp": 5562.18,
+      "sales_invoices": 10
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "RSA",
+      "gross_gbp": 1002.31,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1002.31,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Singapore",
+      "gross_gbp": 7067.32,
+      "cancellations_gbp": 6068.06,
+      "net_gbp": 999.26,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Spain",
+      "gross_gbp": 8636.94,
+      "cancellations_gbp": 3558.29,
+      "net_gbp": 5078.65,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Sweden",
+      "gross_gbp": 5766.16,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 5766.16,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "Switzerland",
+      "gross_gbp": 8050.73,
+      "cancellations_gbp": 31.2,
+      "net_gbp": 8019.53,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "USA",
+      "gross_gbp": 2311.2,
+      "cancellations_gbp": 1579.51,
+      "net_gbp": 731.69,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-10",
+      "month_key": 201110,
+      "country": "United Kingdom",
+      "gross_gbp": 935404.14,
+      "cancellations_gbp": 59157.69,
+      "net_gbp": 876246.45,
+      "sales_invoices": 1811
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Australia",
+      "gross_gbp": 7242.72,
+      "cancellations_gbp": 436.73,
+      "net_gbp": 6805.99,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Austria",
+      "gross_gbp": 1329.78,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 1329.78,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Belgium",
+      "gross_gbp": 6315.76,
+      "cancellations_gbp": 86.35,
+      "net_gbp": 6229.41,
+      "sales_invoices": 11
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Channel Islands",
+      "gross_gbp": 1514.77,
+      "cancellations_gbp": 19.6,
+      "net_gbp": 1495.17,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Cyprus",
+      "gross_gbp": 439.66,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 439.66,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Czech Republic",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 61.51,
+      "net_gbp": -61.51,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Denmark",
+      "gross_gbp": 2699.57,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2699.57,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "EIRE",
+      "gross_gbp": 30713.43,
+      "cancellations_gbp": 325.38,
+      "net_gbp": 30388.05,
+      "sales_invoices": 42
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Finland",
+      "gross_gbp": 3070.24,
+      "cancellations_gbp": 120.0,
+      "net_gbp": 2950.24,
+      "sales_invoices": 8
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "France",
+      "gross_gbp": 31696.37,
+      "cancellations_gbp": 1058.25,
+      "net_gbp": 30638.12,
+      "sales_invoices": 64
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Germany",
+      "gross_gbp": 27967.68,
+      "cancellations_gbp": 1980.67,
+      "net_gbp": 25987.01,
+      "sales_invoices": 68
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Hong Kong",
+      "gross_gbp": 326.1,
+      "cancellations_gbp": 326.1,
+      "net_gbp": 0.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Italy",
+      "gross_gbp": 4571.08,
+      "cancellations_gbp": 327.33,
+      "net_gbp": 4243.75,
+      "sales_invoices": 9
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Japan",
+      "gross_gbp": 8460.08,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 8460.08,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Malta",
+      "gross_gbp": 743.43,
+      "cancellations_gbp": 160.81,
+      "net_gbp": 582.62,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Netherlands",
+      "gross_gbp": 25874.01,
+      "cancellations_gbp": 18.0,
+      "net_gbp": 25856.01,
+      "sales_invoices": 15
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Norway",
+      "gross_gbp": 6527.5,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 6527.5,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Poland",
+      "gross_gbp": 1361.23,
+      "cancellations_gbp": 19.36,
+      "net_gbp": 1341.87,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Portugal",
+      "gross_gbp": 2603.3,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2603.3,
+      "sales_invoices": 10
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Spain",
+      "gross_gbp": 8669.06,
+      "cancellations_gbp": 145.09,
+      "net_gbp": 8523.97,
+      "sales_invoices": 14
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Sweden",
+      "gross_gbp": 2722.23,
+      "cancellations_gbp": 109.52,
+      "net_gbp": 2612.71,
+      "sales_invoices": 5
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Switzerland",
+      "gross_gbp": 8118.96,
+      "cancellations_gbp": 2.0,
+      "net_gbp": 8116.96,
+      "sales_invoices": 6
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "United Kingdom",
+      "gross_gbp": 1319934.07,
+      "cancellations_gbp": 42524.28,
+      "net_gbp": 1277409.79,
+      "sales_invoices": 2490
+    },
+    {
+      "month": "2011-11",
+      "month_key": 201111,
+      "country": "Unspecified",
+      "gross_gbp": 965.75,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 965.75,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Austria",
+      "gross_gbp": 683.2,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 683.2,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Belgium",
+      "gross_gbp": 1417.73,
+      "cancellations_gbp": 8.3,
+      "net_gbp": 1409.43,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Channel Islands",
+      "gross_gbp": 198.4,
+      "cancellations_gbp": 4.25,
+      "net_gbp": 194.15,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Cyprus",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 91.25,
+      "net_gbp": -91.25,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Denmark",
+      "gross_gbp": 168.9,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 168.9,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "EIRE",
+      "gross_gbp": 7340.89,
+      "cancellations_gbp": 17.85,
+      "net_gbp": 7323.04,
+      "sales_invoices": 10
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Finland",
+      "gross_gbp": 1232.76,
+      "cancellations_gbp": 2.08,
+      "net_gbp": 1230.68,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "France",
+      "gross_gbp": 7276.92,
+      "cancellations_gbp": 228.09,
+      "net_gbp": 7048.83,
+      "sales_invoices": 18
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Germany",
+      "gross_gbp": 7984.17,
+      "cancellations_gbp": 179.47,
+      "net_gbp": 7804.7,
+      "sales_invoices": 17
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Greece",
+      "gross_gbp": 680.99,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 680.99,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Iceland",
+      "gross_gbp": 224.82,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 224.82,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Italy",
+      "gross_gbp": 200.45,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 200.45,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Japan",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 116.93,
+      "net_gbp": -116.93,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Malta",
+      "gross_gbp": 0.0,
+      "cancellations_gbp": 30.81,
+      "net_gbp": -30.81,
+      "sales_invoices": 0
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Netherlands",
+      "gross_gbp": 11728.02,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 11728.02,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Norway",
+      "gross_gbp": 2785.7,
+      "cancellations_gbp": 0.0,
+      "net_gbp": 2785.7,
+      "sales_invoices": 3
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Portugal",
+      "gross_gbp": 2808.19,
+      "cancellations_gbp": 6.24,
+      "net_gbp": 2801.95,
+      "sales_invoices": 4
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Spain",
+      "gross_gbp": 316.21,
+      "cancellations_gbp": 44.78,
+      "net_gbp": 271.43,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "Sweden",
+      "gross_gbp": 238.0,
+      "cancellations_gbp": 238.0,
+      "net_gbp": 0.0,
+      "sales_invoices": 1
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "USA",
+      "gross_gbp": 885.24,
+      "cancellations_gbp": 269.96,
+      "net_gbp": 615.28,
+      "sales_invoices": 2
+    },
+    {
+      "month": "2011-12",
+      "month_key": 201112,
+      "country": "United Kingdom",
+      "gross_gbp": 591619.74,
+      "cancellations_gbp": 203851.26,
+      "net_gbp": 387768.48,
+      "sales_invoices": 746
+    }
+  ]
 }

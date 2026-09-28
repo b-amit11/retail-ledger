@@ -1,0 +1,38 @@
+{
+  "selection_tests": [
+    {
+      "country": "Germany",
+      "start": 201101,
+      "end": 201106,
+      "expected": 90132.18000000001,
+      "actual": 90132.18000000001
+    },
+    {
+      "country": "United Kingdom",
+      "start": 201012,
+      "end": 201112,
+      "expected": 8189252.304,
+      "actual": 8189252.3040000005
+    },
+    {
+      "country": "France",
+      "start": 201103,
+      "end": 201103,
+      "expected": 14512.3,
+      "actual": 14512.300000000001
+    },
+    {
+      "country": "Germany",
+      "start": 201112,
+      "end": 201112,
+      "expected": 7804.7,
+      "actual": 7804.7
+    }
+  ],
+  "reversed_period_rejected": true,
+  "pivot_refresh_in_Excel_tested": false,
+  "power_query_connection_installed": false,
+  "native_pivot_parsed": true,
+  "pivot_cache_records": 314,
+  "original_cells_and_chart_preserved": true
+}
