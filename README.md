@@ -1,6 +1,10 @@
 # Retail Ledger
 
+[![SQL tests](https://github.com/b-amit11/retail-ledger/actions/workflows/ci.yml/badge.svg)](https://github.com/b-amit11/retail-ledger/actions/workflows/ci.yml)
+
 A SQL, R, and Excel analysis of recorded sales, cancellations, market concentration, and observed customer retention for a historical online retailer.
+
+**Stack:** SQL (SQLite: CTEs, window functions) · R · Excel (XLOOKUP, SUMIFS, PivotTables, Power Query) · Python · GitHub Actions
 
 ## Business questions
 
@@ -21,6 +25,10 @@ Across the source period, under the documented cleaning assumptions:
 - **5,268 exact duplicate rows** are excluded from sales measures under an explicit assumption. The untouched raw rows remain in SQLite and the audit reconciles all classifications to the source.
 
 Recommended investigation: validate duplicate records against the source system, review high-value cancellation invoices before attributing them to product problems, and improve customer identification coverage. Cancellation reasons and costs are absent, so this analysis does not establish causes, profit impact, or realized savings.
+
+| Monthly net value | Market concentration | Customer retention |
+|---|---|---|
+| ![Monthly sales and cancellations](reports/monthly.png) | ![Net value by country](reports/countries.png) | ![Cohort retention](reports/retention.png) |
 
 ## Deliverables
 

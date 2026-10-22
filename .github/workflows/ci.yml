@@ -1,0 +1,16 @@
+name: SQL tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  sql:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: SQL fixture tests (duplicates, cancellations, missing IDs, retention)
+        run: python -m unittest discover -s tests -v
