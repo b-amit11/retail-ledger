@@ -28,7 +28,7 @@ Recommended investigation: validate duplicate records against the source system,
 
 | Monthly net value | Market concentration | Customer retention |
 |---|---|---|
-| ![Monthly sales and cancellations](reports/monthly.png) | ![Net value by country](reports/countries.png) | ![Cohort retention](reports/retention.png) |
+| ![Monthly net transaction value](reports/monthly.png) | ![Net value by country](reports/countries.png) | ![Cohort retention](reports/retention.png) |
 
 ## Deliverables
 
